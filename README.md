@@ -16,3 +16,9 @@ React + Vite で作成したシンプルなタスク管理アプリ。
 npm install
 npm run dev
 ```
+
+## 公開URL（GitHub Pages）
+
+https://Ishi-2609.github.io/task-board/
+
+`main` ブランチへの push をトリガーに GitHub Actions（`.github/workflows/deploy.yml`）がビルドして自動デプロイします。
